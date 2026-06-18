@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-con-dolor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Latidos con dolor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-con-dolor/) |
+| **Get License** | [Official Music Licensing for Latidos con dolor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-con-dolor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú tienes el flow que a mí me quita la razón
+> De Madrid a Barcelona, tú eres pura tentación
+> Bailando en el VIP oscuro, te adueñas de mi voluntad
+> Latidos con dolor cuando te vas de la ciudad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
