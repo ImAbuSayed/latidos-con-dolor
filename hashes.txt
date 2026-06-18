@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos con dolor
+
+This log tracks the cryptographic history and versioning for the song **Latidos con dolor** (latidos-con-dolor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:46:10.928672 | `v1` | `6a11bc96fcb5cc067263f2b16a235c836f6bc7b619d9ab7e861fe4b7d774f1e3` | `368d3b5d822f8a05e2feca490d2dc29e22e0f92517b8e6da709db5df25fa8a78` | `2026-06-18_latidos-con-dolor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
